@@ -1,1 +1,1 @@
-# CS61C-fa24-Project
+# Sneak
